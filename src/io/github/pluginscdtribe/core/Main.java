@@ -1,4 +1,4 @@
-package com.arrowlib.core;
+package io.github.pluginscdtribe.core;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

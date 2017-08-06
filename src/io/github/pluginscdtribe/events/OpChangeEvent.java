@@ -1,4 +1,4 @@
-package com.arrowlib.events;
+package io.github.pluginscdtribe.events;
 
 import org.bukkit.OfflinePlayer;
 

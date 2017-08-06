@@ -1,4 +1,4 @@
-package com.arrowlib.core;
+package io.github.pluginscdtribe.core;
 
 import java.util.Set;
 
@@ -7,8 +7,8 @@ import org.bukkit.OfflinePlayer;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.scheduler.BukkitRunnable;
 
-import com.arrowlib.events.OpChangeEvent;
-import com.arrowlib.events.OpChangeReasonEnum;
+import io.github.pluginscdtribe.events.OpChangeEvent;
+import io.github.pluginscdtribe.events.OpChangeReasonEnum;
 
 public class OpCheckRunnable extends BukkitRunnable {
 	static Set<OfflinePlayer> operators;
